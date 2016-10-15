@@ -2,8 +2,8 @@ package com.google.engedu.wordstack;
 
 import android.content.res.AssetManager;
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.DragEvent;
 import android.view.MotionEvent;

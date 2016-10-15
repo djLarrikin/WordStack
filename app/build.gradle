@@ -40,4 +40,6 @@ dependencies {
     compile 'com.android.support:support-v4:' + ANDROID_SUPPORT_VERSION
     compile 'com.android.support:design:' + ANDROID_SUPPORT_VERSION
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha9'
+
+    testCompile 'junit:junit:4.12'
 }
