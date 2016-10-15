@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordStack</string>
+    <string name="winner">YOU WIN</string>
+    <string name="loser">"LOSER, the correct answers are "</string>
+</resources>
